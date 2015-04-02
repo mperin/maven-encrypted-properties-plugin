@@ -1,0 +1,1 @@
+Encrypts properties using the ESAPI EncryptedProperties API during the build process of your project.
